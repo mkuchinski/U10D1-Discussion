@@ -5,4 +5,10 @@
     <RootNamespace>U10D1_Discussion</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Update="Pages\Index.cshtml">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
 </Project>
